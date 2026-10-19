@@ -1,9 +1,10 @@
 # Kokouvi Nyameko Agbodjavou
 
 **AI engineer & full-stack developer** — based in Lomé (UTC+0), working remotely.
-15 months as a remote AI engineer at Mawaba (async pipelines, LLM/RAG, computer vision, cloud) and 1+ year as a full-stack developer.
+15 months as an AI engineer at Mawaba (mostly remote: async pipelines, LLM/RAG, computer vision, cloud), and over a year as an IT assistant doing full-stack development at LOGEX.
 Most of my professional work is private; this page lists what I can show.
 
+- **[AITools Platform](https://github.com/Nyamek0/ai-scripts-tools)** — open-source API of eight AI tools (FastAPI, Celery, PostgreSQL, Next.js, Docker).
 ## Public work
 
 - **[Portfolio](https://portfolio.wezoproductions.com/en)** — design, web and video work (Wezo Productions).
